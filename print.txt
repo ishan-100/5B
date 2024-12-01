@@ -1,1 +1,4 @@
+ lab2
+print("Hello world")
 print("Welcome")
+main
